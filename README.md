@@ -32,3 +32,19 @@ My Tasks is a React Native mobile application built using Expo. It allows users 
    cd <repository-folder>
 
 2. **Install Dependencies**
+   Run this command in your project directory to install all required packages:
+   ```bash
+   npm install
+
+3. **Start the Expo development server**
+   Launch the Expo dev server with:
+   ```bash
+   npm start
+   or
+   expo start
+
+
+4. **Run the app on your device**
+   -Open the Expo Go app on your Android or iOS device.
+   -Scan the QR code displayed in the terminal or the browser window that opened when you ran the server.
+   -The app will load and run on your device instantly.
