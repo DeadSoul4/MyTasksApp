@@ -39,7 +39,7 @@ My Tasks is a React Native mobile application built using Expo. It allows users 
 3. **Start the Expo development server**
    Launch the Expo dev server with:
    ```bash
-   npm start
+   npx expo start
    or
    expo start
 
