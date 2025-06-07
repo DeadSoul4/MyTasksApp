@@ -30,3 +30,5 @@ My Tasks is a React Native mobile application built using Expo. It allows users 
    ```bash
    git clone <repository-url>
    cd <repository-folder>
+
+2. **Install Dependencies**
